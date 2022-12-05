@@ -1,6 +1,6 @@
 # Hello, I am Francisco! 👋
 
- - B2B+B2C+DTC Intralogistics (Transport and warehousing) systems consultant & Project Manager (SAP, LFS, EasyWMS, OTM, ...)
+ - B2B+B2C+DTC Intralogistics (Transport and warehousing) systems consultant & Project Manager (LFS, EasyWMS, OTM, ...)
  - EDI communications and systems integrations.
  - MBA & MsC Aerospace engineer. 
 

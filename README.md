@@ -14,6 +14,7 @@
    - Plain CSV, JSON, XML, ... file interchage. 
    - EDI Integrations WMS-ERP [BOTS EDI](https://bots-edi.github.io/bots/readme.html)
    - EDI Integrations WMS-ERP [Apache NIFI](https://nifi.apache.org/)
+   - EDI pdf documentation to csv pdf2csv
  - Django (Python) eSignature SPA (Single Page Application) which:
    1. Had a contract written on it.
    2. User has to read and accept the contract with a checkbox.
